@@ -1,5 +1,4 @@
 <<<<<<< Updated upstream
-console.log("Hello")
 =======
 let firstCard = 10;
 let secondCard = 11;
