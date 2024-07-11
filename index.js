@@ -24,7 +24,6 @@ function startGame() {
     cards = [firstCard, secondCard];
     sum = firstCard + secondCard
     renderGame()
-    
 }
 
 function renderGame() {
